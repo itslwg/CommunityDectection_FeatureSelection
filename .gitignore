@@ -3,3 +3,6 @@ code/.DS_Store
 data/raw/.DS_Store
 .DS_Store
 *.feather
+code/notebooks/.ipynb_checkpoints/data_analysis-checkpoint.ipynb
+code/notebooks/.ipynb_checkpoints/results-checkpoint.ipynb
+*.pyc
